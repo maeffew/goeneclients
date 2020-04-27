@@ -154,63 +154,63 @@ button {
 
 @font-face {
   font-family: "IBM Plex Mono";
-  src: url("assets/fonts/mono/woff/IBMPlexMono-Medium.woff") format("woff"), url("assets/fonts/mono/woff2/IBMPlexMono-Medium.woff2") format("woff2"), url("assets/fonts/mono/eot/IBMPlexMono-Medium.eot") format("eot");
+  src: url("/assets/fonts/mono/woff/IBMPlexMono-Medium.woff") format("woff"), url("assets/fonts/mono/woff2/IBMPlexMono-Medium.woff2") format("woff2"), url("assets/fonts/mono/eot/IBMPlexMono-Medium.eot") format("eot");
   font-weight: 500;
   font-style: normal
 }
 
 @font-face {
   font-family: "IBM Plex Mono";
-  src: url("assets/fonts/mono/woff/IBMPlexMono-Regular.woff") format("woff"), url("assets/fonts/mono/woff2/IBMPlexMono-Regular.woff2") format("woff2"), url("assets/fonts/mono/eot/IBMPlexMono-Regular.eot") format("eot");
+  src: url("/assets/fonts/mono/woff/IBMPlexMono-Regular.woff") format("woff"), url("assets/fonts/mono/woff2/IBMPlexMono-Regular.woff2") format("woff2"), url("assets/fonts/mono/eot/IBMPlexMono-Regular.eot") format("eot");
   font-weight: normal;
   font-style: normal
 }
 
 @font-face {
   font-family: "IBM Plex Mono";
-  src: url("assets/fonts/mono/woff/IBMPlexMono-Light.woff") format("woff"), url("assets/fonts/mono/woff2/IBMPlexMono-Light.woff2") format("woff2"), url("assets/fonts/mono/eot/IBMPlexMono-Light.eot") format("eot");
+  src: url("/assets/fonts/mono/woff/IBMPlexMono-Light.woff") format("woff"), url("assets/fonts/mono/woff2/IBMPlexMono-Light.woff2") format("woff2"), url("assets/fonts/mono/eot/IBMPlexMono-Light.eot") format("eot");
   font-weight: 300;
   font-style: normal
 }
 
 @font-face {
   font-family: "IBM Plex Mono";
-  src: url("assets/fonts/mono/woff2/IBMPlexMono-ExtraLight.woff2") format("woff2"), url("assets/fonts/mono/woff/IBMPlexMono-ExtraLight.woff") format("woff"), url("assets/fonts/mono/eot/IBMPlexMono-ExtraLight.eot") format("eot");
+  src: url("/assets/fonts/mono/woff2/IBMPlexMono-ExtraLight.woff2") format("woff2"), url("assets/fonts/mono/woff/IBMPlexMono-ExtraLight.woff") format("woff"), url("assets/fonts/mono/eot/IBMPlexMono-ExtraLight.eot") format("eot");
   font-weight: 200;
   font-style: normal
 }
 
 @font-face {
   font-family: "IBM Plex Mono";
-  src: url("assets/fonts/mono/woff/IBMPlexMono-Thin.woff") format("woff"), url("assets/fonts/mono/woff2/IBMPlexMono-Thin.woff2") format("woff2"), url("assets/fonts/mono/eot/IBMPlexMono-Thin.eot") format("eot");
+  src: url("/assets/fonts/mono/woff/IBMPlexMono-Thin.woff") format("woff"), url("assets/fonts/mono/woff2/IBMPlexMono-Thin.woff2") format("woff2"), url("assets/fonts/mono/eot/IBMPlexMono-Thin.eot") format("eot");
   font-weight: 100;
   font-style: normal
 }
 
 @font-face {
   font-family: "IBM Plex Sans";
-  src: url("assets/fonts/sans/woff/IBMPlexSans-Bold.woff") format("woff"), url("assets/fonts/sans/woff2/IBMPlexSans-Bold.woff2") format("woff2"), url("assets/fonts/sans/eot/IBMPlexSans-Bold.eot") format("eot");
+  src: url("/assets/fonts/sans/woff/IBMPlexSans-Bold.woff") format("woff"), url("assets/fonts/sans/woff2/IBMPlexSans-Bold.woff2") format("woff2"), url("assets/fonts/sans/eot/IBMPlexSans-Bold.eot") format("eot");
   font-weight: 700;
   font-style: normal
 }
 
 @font-face {
   font-family: "IBM Plex Sans";
-  src: url("assets/fonts/sans/woff/IBMPlexSans-Medium.woff") format("woff"), url("assets/fonts/sans/woff2/IBMPlexSans-Medium.woff2") format("woff2"), url("assets/fonts/sans/eot/IBMPlexSans-Medium.eot") format("eot");
+  src: url("/assets/fonts/sans/woff/IBMPlexSans-Medium.woff") format("woff"), url("assets/fonts/sans/woff2/IBMPlexSans-Medium.woff2") format("woff2"), url("assets/fonts/sans/eot/IBMPlexSans-Medium.eot") format("eot");
   font-weight: 500;
   font-style: normal
 }
 
 @font-face {
   font-family: "IBM Plex Sans";
-  src: url("assets/fonts/sans/woff/IBMPlexSans-Regular.woff") format("woff"), url("assets/fonts/sans/woff2/IBMPlexSans-Regular.woff2") format("woff2"), url("assets/fonts/sans/eot/IBMPlexSans-Regular.eot") format("eot");
+  src: url("/assets/fonts/sans/woff/IBMPlexSans-Regular.woff") format("woff"), url("assets/fonts/sans/woff2/IBMPlexSans-Regular.woff2") format("woff2"), url("assets/fonts/sans/eot/IBMPlexSans-Regular.eot") format("eot");
   font-weight: normal;
   font-style: normal
 }
 
 @font-face {
   font-family: "IBM Plex Sans";
-  src: url("assets/fonts/sans/woff/IBMPlexSans-ExtraLight.woff") format("woff"), url("assets/fonts/sans/woff2/IBMPlexSans-ExtraLight.woff2") format("woff2"), url("assets/fonts/sans/eot/IBMPlexSans-ExtraLight.eot") format("eot");
+  src: url("/assets/fonts/sans/woff/IBMPlexSans-ExtraLight.woff") format("woff"), url("assets/fonts/sans/woff2/IBMPlexSans-ExtraLight.woff2") format("woff2"), url("assets/fonts/sans/eot/IBMPlexSans-ExtraLight.eot") format("eot");
   font-weight: 200;
   font-style: normal
 }
